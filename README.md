@@ -23,4 +23,3 @@ I am Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)]([https://github.com/anuraghazra](https://github.com/adidarich/github-readme-stats)
